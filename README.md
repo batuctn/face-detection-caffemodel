@@ -28,3 +28,5 @@ This will help your code run the detection as long as you want.
 
 
 ![ekran2](https://user-images.githubusercontent.com/96943978/175533631-a72847a2-55ef-4a95-913a-c4bf9cce283c.png)
+
+Threshold=0.49
