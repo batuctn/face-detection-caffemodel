@@ -1,4 +1,8 @@
 # Face-Detection-Caffemodel
+
+
+
+![Ekran](https://user-images.githubusercontent.com/96943978/175532828-b1c7b80d-c733-42c7-ac31-0affa62c9d30.png)
   
 I have added codes for detecting faces from webcam, as well as video files, and improving the fps rate compared to the naive process. For improvement, I have 
 used another separate thread for read() operation of cv2, so that it wont block other operations from happening in the main thread, and hence fps will increase.
@@ -23,4 +27,4 @@ This will help your code run the detection as long as you want.
 
 
 
-![Ekran](https://user-images.githubusercontent.com/96943978/175532828-b1c7b80d-c733-42c7-ac31-0affa62c9d30.png)
+![ekran2](https://user-images.githubusercontent.com/96943978/175533631-a72847a2-55ef-4a95-913a-c4bf9cce283c.png)
