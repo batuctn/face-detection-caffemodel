@@ -16,7 +16,7 @@ For executing the code
   video file code - python face_detection_vstream.py -v video2.mp4
 	
 	
-  webcam video file - python3 fps_improved.py -p deploy.prototxt.txt -m res10_300x300_ssd_iter_140000.caffemodel -d 1 -n 200
+  webcam video file - python fps_improved.py -p deploy.prototxt.txt -m res10_300x300_ssd_iter_140000.caffemodel -d 1 -n 200
   
 In the webcam model, if you want to keep the video detection on according to your wish, the just change the while condition to - 
   while True:
