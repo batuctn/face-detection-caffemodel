@@ -18,3 +18,9 @@ In the webcam model, if you want to keep the video detection on according to you
   while True:
   
 This will help your code run the detection as long as you want.
+
+
+
+
+
+![Ekran](https://user-images.githubusercontent.com/96943978/175532828-b1c7b80d-c733-42c7-ac31-0affa62c9d30.png)
